@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e5c041f6.js",
-    "static/js/787.6e70e601.chunk.js": "/static/js/787.6e70e601.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e5c041f6.js.map": "/static/js/main.e5c041f6.js.map",
-    "787.6e70e601.chunk.js.map": "/static/js/787.6e70e601.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.33283503.css",
+    "main.js": "/react-gh-pages/static/js/main.a3d9a64d.js",
+    "static/js/787.6e70e601.chunk.js": "/react-gh-pages/static/js/787.6e70e601.chunk.js",
+    "static/media/apr.m4a": "/react-gh-pages/static/media/apr.ad50b28cb96c7bdb09c0.m4a",
+    "static/media/profile-image.JPG": "/react-gh-pages/static/media/profile-image.c9070c8755ad0eaddb89.JPG",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.82012a666c0a07c5f3c7.png",
+    "static/media/spotify-logo.png": "/react-gh-pages/static/media/spotify-logo.8eef091b1fba251ca310.png",
+    "static/media/ig-logo.png": "/react-gh-pages/static/media/ig-logo.81e2e2c95e0e6728b4d7.png",
+    "static/media/press-logo.png": "/react-gh-pages/static/media/press-logo.2cdb199ab9ebaf8cdd7b.png",
+    "static/media/tiktok-logo.png": "/react-gh-pages/static/media/tiktok-logo.816e132b6240959a9463.png",
+    "static/media/twitter-logo.png": "/react-gh-pages/static/media/twitter-logo.57573394db94634d7e1f.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.33283503.css.map": "/react-gh-pages/static/css/main.33283503.css.map",
+    "main.a3d9a64d.js.map": "/react-gh-pages/static/js/main.a3d9a64d.js.map",
+    "787.6e70e601.chunk.js.map": "/react-gh-pages/static/js/787.6e70e601.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e5c041f6.js"
+    "static/css/main.33283503.css",
+    "static/js/main.a3d9a64d.js"
   ]
 }
